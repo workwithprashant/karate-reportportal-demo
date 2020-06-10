@@ -1,2 +1,2 @@
-# karate-reportportal
-This repositary houses reportportal integration with Karate framework
+# karate-reportportal-demo
+This repositary houses reportportal integration demo with Karate framework version 0.9.5+
