@@ -5,6 +5,15 @@
 
 Reportportal integration demo with Karate framework version 0.9.5
 
+## Pre-Requisites
+
+Make sure you have installed the following prerequisites:
+* JRE - [Download & Install JRE](https://www.java.com/en/download/).
+* Maven for Maven Plugin - [Download & Install Maven](https://maven.apache.org/download.cgi).
+
+Make sure to update [`reportportal.properties`](src/test/java/reportportal.properties) with your Reportportal instance properties.
+
+Refer to [Reportportal properties configuration](https://github.com/reportportal/client-java/blob/develop/README.md#jvm-based-clients-configuration)
 ## Instructions
 
 ```
