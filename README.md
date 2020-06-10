@@ -1,4 +1,5 @@
 # karate-reportportal-demo
+![GitHub All Releases](https://img.shields.io/github/downloads/workwithprashant/karate-reportportal-demo/total)
 ![GitHub followers](https://img.shields.io/github/followers/workwithprashant?label=Follow&style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/getwithprashant?label=Follow&style=social)
 
