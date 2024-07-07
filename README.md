@@ -2,7 +2,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/workwithprashant/karate-reportportal-demo?style=social&label=Star&maxAge=2592000)](https://GitHub.com/workwithprashant/karate-reportportal-demo)
 [![Twitter Follow](https://img.shields.io/twitter/follow/getwithprashant?label=Follow&style=social)](https://twitter.com/getwithprashant)
 
-Reportportal integration demo with Karate framework version 0.9.5
+Reportportal integration demo with Karate framework version **0.9.6.RC+**
 
 ## Pre-Requisites
 

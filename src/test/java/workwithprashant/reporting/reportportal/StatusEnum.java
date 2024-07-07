@@ -1,4 +1,4 @@
-package com.dell.reporting.reportportal;
+package workwithprashant.reporting.reportportal;
 
 import java.util.Arrays;
 import java.util.Optional;
