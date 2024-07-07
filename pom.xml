@@ -19,7 +19,6 @@
         <commons-io.version>2.7</commons-io.version>
         <commons.model.rp.version>5.3.3</commons.model.rp.version>
     </properties>
-
     <repositories>
         <repository>
             <snapshots>
