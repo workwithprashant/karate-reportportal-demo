@@ -1,4 +1,4 @@
-package com.dell.utils;
+package workwithprashant.utils;
 
 
 import org.slf4j.Logger;

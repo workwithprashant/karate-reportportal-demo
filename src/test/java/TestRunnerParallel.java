@@ -1,10 +1,14 @@
-import com.dell.utils.LogHelper;
+import com.intuit.karate.core.Feature;
+import workwithprashant.karate.ReportportalHook;
+import workwithprashant.utils.LogHelper;
 import com.intuit.karate.Runner;
 import org.junit.jupiter.api.Test;
 import org.slf4j.Logger;
 
 import java.io.IOException;
+import java.util.ArrayList;
 import java.util.Collections;
+import java.util.List;
 
 /**
  * This class is to execute tests
@@ -27,10 +31,10 @@ class TestRunnerParallel {
         log.info("| Starting Functional Test Execution |");
         log.info("+------------------------------------+");
 
-        Runner.path("classpath:")
-                .tags(Collections.singletonList("demo"))
+        Runner.path("classpath:features/users.feature")
+                .tags("@demo")
+                .hook(new ReportportalHook())
                 .parallel(1);
-
     }
 
 }
